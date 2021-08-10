@@ -11,7 +11,7 @@ A bit about Myself, I am Varun Choudhary pursuing a Computer Science Degree from
 
 <h1>Technical Skills 🛠</h1>
    
-I am learning Web development and knowing HTML, CSS & Javascript. Besides that, I am also learning C++ and also have good knowledge of C Language. I also know how to use PhotoShop, Illustrator for designing, and Vs-Code for doing contributions on Github and also learning git.
+I am learning Web development and know HTML, CSS & Javascript. Besides that, I am also learning C++ and also have good knowledge of the C Language. I also know how to use PhotoShop, Illustrator for designing, and Vs-Code for doing contributions on Github and also learning git.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
