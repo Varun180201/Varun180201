@@ -5,7 +5,7 @@ A bit about Myself, I am Varun Choudhary pursuing a Computer Science Degree from
 
 <h3 align="center"> A Passionate Web Developer | Graphic Designer | UI/UX Designer </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Varun180201&label=Profile%20views&color=6805D3&style=flat" alt="Varun" /> </p></h3>
    <div align="center">
   
 
