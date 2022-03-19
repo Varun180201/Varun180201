@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Varun Choudhary </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/varun-choudhary-3271051b8/ " target="_blank"> Varun Choudhary </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 A bit about Myself, I am Varun Choudhary pursuing a Computer Science Degree from JECRC University. As of now, I am focused on web development and Competitive Coding but still, wish to explore many fields. ⚡
